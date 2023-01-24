@@ -1,5 +1,4 @@
 # UsefulThings
 
 ## Development tools
-- [Reversee](https://www.reversee.ninja/) (Reverse Proxy Web Debugger
-)
+- [Reversee](https://www.reversee.ninja/) (Reverse Proxy Web Debugger)
